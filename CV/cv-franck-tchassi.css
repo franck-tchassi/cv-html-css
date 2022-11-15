@@ -1,0 +1,24 @@
+*{
+    background-color: brown;
+    margin: 0 auto;
+    
+
+}
+#titre{
+    text-align: center;
+    font-size: 50px ;
+    font-family:  serif;
+}
+.titre1, .titre2, .titre3, .titre4, .titre5{
+    color: blue;
+}
+ul{
+    color: yellow;
+}
+
+.foot{
+    text-decoration: none;
+}
+.lien{
+    color: yellow;
+}
